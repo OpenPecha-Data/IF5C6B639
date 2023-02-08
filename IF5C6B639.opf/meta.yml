@@ -1,0 +1,16 @@
+id: IF5C6B639
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:12:27.662248
+last_modified: 2023-02-08 16:12:27.662373
+source_metadata:
+  title: 'Aśvaghoṣa: Saundarananda'
+  language: en
+bases:
+  37CC:
+    base_file: 37CC.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
